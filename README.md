@@ -1,6 +1,6 @@
 # SystemProgramming
 
-LAB for system programming of SNU 2022 Fall
+LAB for system programming course of SNU 2022 Fall
 
 Including
 ### BOMB LAB
