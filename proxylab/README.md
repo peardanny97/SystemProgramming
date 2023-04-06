@@ -1,3 +1,4 @@
+```
 ####################################################################
 # CS:APP Proxy Lab
 #
@@ -8,8 +9,9 @@ This directory contains the files you will need for the CS:APP Proxy
 Lab.
 
 proxy.c
-csapp.h
-csapp.c
+<br>csapp.h
+<br>csapp.c
+
     These are starter files.  csapp.c and csapp.h are described in
     your textbook. 
 
@@ -46,4 +48,5 @@ nop-server.py
 
 tiny
     Tiny Web server from the CS:APP text
+```
 
