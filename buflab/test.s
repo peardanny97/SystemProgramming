@@ -1,0 +1,7 @@
+#pushl $0x0804e120
+movl $0x0804e120, -0xf(%esp)
+pushl $0x08049855
+movl $0x24, %eax
+movl $0x55683e40, %ebp
+movl $0x804e000, %ebx
+ret
