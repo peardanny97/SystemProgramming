@@ -50,3 +50,13 @@ tiny
     Tiny Web server from the CS:APP text
 ```
 
+![proxylab (1)_page-0001](https://user-images.githubusercontent.com/37990408/230284444-32265ff6-2e70-4141-9886-372cd970d1c5.jpg)
+![proxylab (1)_page-0002](https://user-images.githubusercontent.com/37990408/230284448-816b137d-d971-461f-9e39-ac0ab556326c.jpg)
+![proxylab (1)_page-0003](https://user-images.githubusercontent.com/37990408/230284451-bd6a011b-1b20-4518-af0a-9da7700bbe2e.jpg)
+![proxylab (1)_page-0004](https://user-images.githubusercontent.com/37990408/230284455-d7a5a281-25d5-4299-8869-b66a99bfb949.jpg)
+![proxylab (1)_page-0005](https://user-images.githubusercontent.com/37990408/230284456-88482384-c209-4c78-b69e-dcdef8afa494.jpg)
+![proxylab (1)_page-0006](https://user-images.githubusercontent.com/37990408/230284461-cad6017e-53ef-4da6-85c7-f8a70471c755.jpg)
+![proxylab (1)_page-0007](https://user-images.githubusercontent.com/37990408/230284464-f88ebf3a-74f9-4fe4-908b-b1fd490f2a15.jpg)
+![proxylab (1)_page-0008](https://user-images.githubusercontent.com/37990408/230284467-9c7e38e8-f29b-4a0d-a009-626eebadbf92.jpg)
+![proxylab (1)_page-0009](https://user-images.githubusercontent.com/37990408/230284469-a5286239-a8d6-4064-8f9a-1f0972ccd45e.jpg)
+![proxylab (1)_page-0010](https://user-images.githubusercontent.com/37990408/230284474-99ae06df-edd9-4aa3-9339-2e2c68e77ad4.jpg)
